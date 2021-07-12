@@ -1,4 +1,2 @@
 telebot
-pickle
-wave
 pyaudio
