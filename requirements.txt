@@ -1,0 +1,17 @@
+telebot
+subprocess
+MLPClassifier
+accuracy_score
+load_data
+soundfile
+numpy
+librosa
+glob
+os
+train_test_split
+pack
+array
+byteorder
+pickle
+wave
+pyaudio
