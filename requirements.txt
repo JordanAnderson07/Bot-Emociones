@@ -1,5 +1,5 @@
 telebot
-subprocess
+ffmpy
 MLPClassifier
 accuracy_score
 load_data
