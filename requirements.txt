@@ -1,8 +1,4 @@
 telebot
-pip install subprocess.run
-subprocess
-MLPClassifier
-accuracy_score
 load_data
 soundfile
 numpy
